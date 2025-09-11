@@ -1,0 +1,3 @@
+2025-09-11_11:54:56.234779 | ✏️ | Cluster: "" command="scontrol --json show nodes" returned "0" | slurm_viewer.data.slurm_communication:slurm_communication.py:run_command[173]
+2025-09-11_11:54:56.264408 | ✏️ | Cluster: "" command="sinfo --json" returned "0" | slurm_viewer.data.slurm_communication:slurm_communication.py:run_command[173]
+2025-09-11_11:54:56.350270 | ✏️ | Cluster: "" command="squeue  --json" returned "0" | slurm_viewer.data.slurm_communication:slurm_communication.py:run_command[173]
