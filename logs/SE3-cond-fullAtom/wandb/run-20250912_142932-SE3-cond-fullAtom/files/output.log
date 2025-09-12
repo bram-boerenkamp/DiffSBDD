@@ -1,0 +1,106 @@
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+Initializing distributed: GLOBAL_RANK: 0, MEMBER: 1/1
+----------------------------------------------------------------------------------------------------
+distributed_backend=nccl
+All distributed processes registered. Starting with 1 processes
+----------------------------------------------------------------------------------------------------
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/pytorch_lightning/callbacks/model_checkpoint.py:604: UserWarning: Checkpoint directory /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/SE3-cond-fullAtom/checkpoints exists and is not empty.
+  rank_zero_warn(f"Checkpoint directory {dirpath} exists and is not empty.")
+Restoring states from the checkpoint path at /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/SE3-cond-fullAtom/checkpoints/last.ckpt
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0,1,2]
+  | Name | Type            | Params
+-----------------------------------------
+0 | ddpm | ConditionalDDPM | 2.8 M
+-----------------------------------------
+2.8 M     Trainable params
+501       Non-trainable params
+2.8 M     Total params
+11.048    Total estimated model params size (MB)
+Restored all states from the checkpoint file at /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/SE3-cond-fullAtom/checkpoints/last.ckpt
+SLURM auto-requeueing enabled. Setting signal handlers.
+Clipped gradient with value 1.3 while allowed 0.4
+Clipped gradient with value 0.4 while allowed 0.4
+Clipped gradient with value 1.0 while allowed 0.4
+Clipped gradient with value 0.6 while allowed 0.4
+Clipped gradient with value 0.5 while allowed 0.5
+Clipped gradient with value 0.4 while allowed 0.4
+Clipped gradient with value 0.6 while allowed 0.5
+Clipped gradient with value 0.6 while allowed 0.5
+Clipped gradient with value 0.6 while allowed 0.5
+Clipped gradient with value 0.7 while allowed 0.5
+Clipped gradient with value 0.9 while allowed 0.6
+Clipped gradient with value 1.2 while allowed 0.6
+Analyzing sampled molecules given pockets at epoch 24...
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/openbabel/__init__.py:14: UserWarning: "import openbabel" is deprecated, instead use "from openbabel import openbabel"
+  warnings.warn('"import openbabel" is deprecated, instead use "from openbabel import openbabel"')
+Validity over 100 molecules: 83.00%
+Connectivity over 83 valid molecules: 19.28%
+Uniqueness over 16 connected molecules: 100.00%
+Novelty over 16 unique connected molecules: 100.00%
+Evaluation took 129.42 seconds
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/numpy/core/fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/numpy/core/_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/pytorch_lightning/trainer/connectors/logger_connector/result.py:233: UserWarning: You called `self.log('kl_div_residue_types/val', ...)` in your `validation_epoch_end` but the value needs to be floating point. Converting it to torch.float32.
+  warning_cache.warn(
+Sample visualization took 20.11 seconds
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/pytorch_lightning/trainer/connectors/logger_connector/result.py:537: PossibleUserWarning: It is recommended to use `self.log('kl_div_atom_types/val', ..., sync_dist=True)` when logging on epoch level in distributed setting to accumulate the metric across devices.
+  warning_cache.warn(
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/pytorch_lightning/trainer/connectors/logger_connector/result.py:537: PossibleUserWarning: It is recommended to use `self.log('kl_div_residue_types/val', ..., sync_dist=True)` when logging on epoch level in distributed setting to accumulate the metric across devices.
+  warning_cache.warn(
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/pytorch_lightning/trainer/connectors/logger_connector/result.py:537: PossibleUserWarning: It is recommended to use `self.log('Validity/val', ..., sync_dist=True)` when logging on epoch level in distributed setting to accumulate the metric across devices.
+  warning_cache.warn(
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/pytorch_lightning/trainer/connectors/logger_connector/result.py:537: PossibleUserWarning: It is recommended to use `self.log('Connectivity/val', ..., sync_dist=True)` when logging on epoch level in distributed setting to accumulate the metric across devices.
+  warning_cache.warn(
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/pytorch_lightning/trainer/connectors/logger_connector/result.py:537: PossibleUserWarning: It is recommended to use `self.log('Uniqueness/val', ..., sync_dist=True)` when logging on epoch level in distributed setting to accumulate the metric across devices.
+  warning_cache.warn(
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/pytorch_lightning/trainer/connectors/logger_connector/result.py:537: PossibleUserWarning: It is recommended to use `self.log('Novelty/val', ..., sync_dist=True)` when logging on epoch level in distributed setting to accumulate the metric across devices.
+  warning_cache.warn(
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/pytorch_lightning/trainer/connectors/logger_connector/result.py:537: PossibleUserWarning: It is recommended to use `self.log('QED/val', ..., sync_dist=True)` when logging on epoch level in distributed setting to accumulate the metric across devices.
+  warning_cache.warn(
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/pytorch_lightning/trainer/connectors/logger_connector/result.py:537: PossibleUserWarning: It is recommended to use `self.log('SA/val', ..., sync_dist=True)` when logging on epoch level in distributed setting to accumulate the metric across devices.
+  warning_cache.warn(
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/pytorch_lightning/trainer/connectors/logger_connector/result.py:537: PossibleUserWarning: It is recommended to use `self.log('LogP/val', ..., sync_dist=True)` when logging on epoch level in distributed setting to accumulate the metric across devices.
+  warning_cache.warn(
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/pytorch_lightning/trainer/connectors/logger_connector/result.py:537: PossibleUserWarning: It is recommended to use `self.log('Lipinski/val', ..., sync_dist=True)` when logging on epoch level in distributed setting to accumulate the metric across devices.
+  warning_cache.warn(
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/pytorch_lightning/trainer/connectors/logger_connector/result.py:537: PossibleUserWarning: It is recommended to use `self.log('Diversity/val', ..., sync_dist=True)` when logging on epoch level in distributed setting to accumulate the metric across devices.
+  warning_cache.warn(
+/home/20192236/.conda/envs/DiffSBDD/lib/python3.10/site-packages/pytorch_lightning/trainer/connectors/logger_connector/result.py:537: PossibleUserWarning: It is recommended to use `self.log('smina_score/val', ..., sync_dist=True)` when logging on epoch level in distributed setting to accumulate the metric across devices.
+  warning_cache.warn(
+Creating gif with 110 images
+Chain visualization took 115.38 seconds
+Clipped gradient with value 0.7 while allowed 0.5
+Clipped gradient with value 0.5 while allowed 0.5
+Clipped gradient with value 0.7 while allowed 0.5
+Clipped gradient with value 0.8 while allowed 0.6
+Clipped gradient with value 0.6 while allowed 0.6
+Clipped gradient with value 0.5 while allowed 0.5
+Clipped gradient with value 0.6 while allowed 0.5
+Clipped gradient with value 0.7 while allowed 0.5
+Clipped gradient with value 0.7 while allowed 0.5
+Clipped gradient with value 0.7 while allowed 0.6
+Clipped gradient with value 0.5 while allowed 0.4
+Clipped gradient with value 0.5 while allowed 0.5
+Clipped gradient with value 0.5 while allowed 0.4
+Clipped gradient with value 0.6 while allowed 0.4
+Clipped gradient with value 0.6 while allowed 0.4
+Clipped gradient with value 0.8 while allowed 0.5
+Clipped gradient with value 0.7 while allowed 0.5
+Clipped gradient with value 1.0 while allowed 0.5
+Clipped gradient with value 0.6 while allowed 0.5
+Clipped gradient with value 0.6 while allowed 0.5
+Clipped gradient with value 0.5 while allowed 0.5
+Clipped gradient with value 0.5 while allowed 0.5
+Clipped gradient with value 0.7 while allowed 0.5
+Clipped gradient with value 0.7 while allowed 0.5
+Clipped gradient with value 0.5 while allowed 0.4
+Clipped gradient with value 0.4 while allowed 0.4
+Clipped gradient with value 0.5 while allowed 0.4
+Clipped gradient with value 0.6 while allowed 0.4
+Clipped gradient with value 0.5 while allowed 0.4
+Clipped gradient with value 0.5 while allowed 0.4
