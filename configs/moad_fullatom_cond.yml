@@ -1,5 +1,5 @@
-run_name: 'SE3-cond-fullAtom'
-logdir: '/bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom'
+run_name: 'SE3-cond-fullAtom-1000-epochs'
+logdir: '/bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom-1000-epochs'
 wandb_params:
   mode: 'online'  # disabled, offline, online
   entity: 'bboerenkamp'
@@ -16,7 +16,7 @@ batch_size: 32
 lr: 5.0e-4
 n_epochs: 1000
 num_workers: 3
-gpus: 3
+gpus: 1
 clip_grad: True
 augment_rotation: False
 augment_noise: 0

@@ -413,3 +413,1303 @@
 2025-09-12 14:41:55,813 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
 2025-09-12 14:41:55,816 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
 2025-09-12 14:41:56,386 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:42:03,368 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:42:07,818 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:42:07,818 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:42:10,949 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:42:10,950 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:42:10,951 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:42:10,953 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:42:11,398 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:42:23,000 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:42:23,001 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:42:26,585 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:42:26,586 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:42:26,588 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:42:26,696 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:42:27,412 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:42:34,708 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:42:38,252 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:42:38,253 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:42:38,698 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:42:38,699 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:42:38,699 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:42:38,700 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:42:39,422 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:42:43,407 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:42:43,408 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:42:43,409 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:42:43,410 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:42:43,426 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:42:53,515 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:42:53,516 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:42:58,458 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:42:58,460 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:42:58,461 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:42:58,464 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:42:59,439 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:43:03,443 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:43:05,445 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:43:05,884 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:43:08,737 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:43:08,738 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:43:13,468 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:43:13,469 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:43:13,470 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:43:13,471 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:43:14,452 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:43:23,462 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:43:23,906 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:43:23,907 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:43:28,662 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:43:28,663 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:43:28,664 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:43:28,667 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:43:29,467 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:43:31,469 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:43:37,241 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:43:39,169 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:43:39,169 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:43:39,476 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:43:43,918 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:43:43,919 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:43:43,920 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:43:43,921 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:43:44,480 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:43:54,460 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:43:54,461 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:43:55,489 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:43:59,232 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:43:59,233 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:43:59,234 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:43:59,237 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:43:59,492 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:44:08,375 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:44:09,733 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:44:09,733 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:44:14,548 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:44:14,550 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:44:14,551 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:44:14,552 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:44:15,504 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:44:24,920 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:44:24,920 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:44:25,513 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:44:27,515 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:44:29,820 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:44:29,821 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:44:29,822 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:44:29,825 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:44:30,518 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:44:37,523 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:44:39,525 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:44:39,720 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:44:40,103 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:44:40,104 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:44:45,076 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:44:45,078 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:44:45,078 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:44:45,080 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:44:45,530 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:44:48,345 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:44:48,347 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:44:48,347 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:44:48,348 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:44:48,544 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:44:49,545 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:44:55,365 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:44:55,366 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:45:01,382 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:45:01,383 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:45:01,384 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:45:01,386 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:45:01,555 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:45:05,559 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:45:10,598 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:45:10,598 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:45:10,876 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:45:16,224 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:45:16,225 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:45:16,225 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:45:16,226 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:45:16,569 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:45:21,573 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:45:23,575 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:45:25,872 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:45:25,872 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:45:31,371 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:45:31,373 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:45:31,373 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:45:31,375 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:45:31,582 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:45:41,034 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:45:41,034 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:45:41,593 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:45:42,204 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:45:46,402 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:45:46,403 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:45:46,404 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:45:46,405 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:45:46,598 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:45:51,602 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:45:53,604 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:45:55,607 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:45:56,312 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:45:56,312 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:46:01,634 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:46:01,636 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:46:01,636 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:46:01,638 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:46:02,613 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:46:09,621 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:46:11,572 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:46:11,573 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:46:13,380 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:46:16,872 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:46:16,873 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:46:16,873 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:46:16,875 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:46:17,629 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:46:17,630 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:46:26,772 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:46:26,773 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:46:31,644 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:46:32,040 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:46:32,041 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:46:32,042 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:46:32,043 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:46:32,645 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:46:41,654 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:46:42,030 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:46:42,030 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:46:43,657 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:46:44,736 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:46:47,218 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:46:47,219 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:46:47,220 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:46:47,221 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:46:47,661 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:46:56,797 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:46:56,798 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:46:56,799 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:46:56,800 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:46:57,284 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:46:57,285 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:46:57,671 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:46:59,674 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:47:03,254 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:47:03,256 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:47:03,257 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:47:03,260 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:47:03,683 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:47:12,583 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:47:12,583 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:47:15,851 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:47:18,418 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:47:18,420 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:47:18,420 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:47:18,422 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:47:18,698 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:47:19,699 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:47:21,702 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:47:23,704 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:47:27,779 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:47:27,780 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:47:29,711 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:47:33,610 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:47:33,611 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:47:33,612 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:47:33,614 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:47:33,716 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:47:42,990 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:47:42,991 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:47:47,220 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:47:48,663 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:47:48,664 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:47:48,665 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:47:48,666 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:47:48,732 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:47:55,739 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:47:57,741 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:47:58,236 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:47:58,237 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:48:03,808 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:48:03,810 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:48:03,810 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:48:03,811 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:48:04,747 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:48:11,754 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:48:13,509 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:48:13,509 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:48:15,759 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:48:18,368 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:48:18,936 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:48:18,937 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:48:18,938 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:48:18,939 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:48:19,763 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:48:28,733 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:48:28,733 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:48:33,778 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:48:34,110 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:48:34,112 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:48:34,112 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:48:34,113 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:48:34,779 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:48:44,008 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:48:44,009 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:48:49,242 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:48:49,243 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:48:49,244 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:48:49,246 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:48:49,711 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:48:49,794 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:48:57,802 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:48:59,205 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:48:59,205 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:49:04,406 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:49:04,407 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:49:04,408 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:49:04,409 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:49:04,809 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:49:05,204 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:49:05,205 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:49:05,205 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:49:05,207 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:49:05,810 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:49:14,470 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:49:14,471 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:49:17,822 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:49:20,665 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:49:20,666 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:49:20,667 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:49:20,669 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:49:20,825 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:49:20,873 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:49:29,668 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:49:29,669 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:49:33,839 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:49:35,758 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:49:35,759 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:49:35,760 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:49:35,765 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:49:35,843 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:49:44,912 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:49:44,913 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:49:47,855 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:49:49,857 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:49:50,745 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:49:50,746 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:49:50,747 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:49:50,750 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:49:50,858 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:49:52,236 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:50:00,152 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:50:00,153 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:50:05,869 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:50:05,870 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:50:05,871 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:50:05,872 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:50:05,875 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:50:15,536 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:50:15,537 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:50:17,892 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:50:19,894 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:50:21,067 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:50:21,068 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:50:21,069 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:50:21,071 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:50:21,896 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:50:23,390 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:50:30,779 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:50:30,780 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:50:31,906 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:50:36,244 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:50:36,245 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:50:36,246 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:50:36,247 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:50:36,912 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:50:46,040 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:50:46,040 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:50:51,430 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:50:51,431 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:50:51,433 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:50:51,436 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:50:51,928 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:50:54,724 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:50:55,932 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:51:01,275 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:51:01,275 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:51:06,676 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:51:06,677 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:51:06,678 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:51:06,680 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:51:06,943 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:51:11,949 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:51:13,784 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:51:13,785 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:51:13,786 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:51:13,787 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:51:13,969 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:51:13,969 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:51:16,542 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:51:16,543 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:51:22,765 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:51:22,766 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:51:22,767 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:51:22,770 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:51:22,977 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:51:25,873 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:51:27,982 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:51:31,763 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:51:31,764 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:51:37,915 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:51:37,916 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:51:37,916 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:51:37,917 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:51:37,993 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:51:46,988 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:51:46,989 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:51:53,005 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:51:54,085 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:51:54,085 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:51:54,088 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:51:55,011 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:51:57,211 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:52:06,989 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:52:06,989 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:52:08,024 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:52:08,092 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:52:08,093 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:52:08,093 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:52:08,094 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:52:09,025 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:52:10,026 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:52:22,382 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:52:22,383 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:52:23,336 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:52:23,337 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:52:23,338 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:52:23,339 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:52:24,042 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:52:28,370 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:52:37,631 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:52:37,631 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:52:38,339 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:52:38,340 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:52:38,341 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:52:38,342 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:52:39,057 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:52:44,063 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:52:50,069 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:52:52,839 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:52:52,840 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:52:53,555 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:52:53,556 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:52:53,557 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:52:53,558 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:52:54,075 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:52:59,723 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:53:06,088 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:53:08,043 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:53:08,044 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:53:08,594 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:53:08,595 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:53:08,596 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:53:08,597 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:53:09,092 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:53:12,096 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:53:22,109 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:53:22,200 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:53:22,201 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:53:22,201 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:53:22,202 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:53:23,111 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:53:23,237 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:53:23,238 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:53:24,844 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:53:24,845 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:53:24,845 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:53:24,846 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:53:25,113 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:53:30,850 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:53:32,120 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:53:38,126 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:53:38,439 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:53:38,440 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:53:39,999 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:53:40,000 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:53:40,001 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:53:40,002 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:53:40,132 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:53:53,665 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:53:53,665 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:53:54,147 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:53:55,225 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:53:55,226 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:53:55,226 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:53:55,228 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:53:56,149 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:53:56,150 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:54:00,154 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:54:02,215 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:54:08,896 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:54:08,896 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:54:10,164 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:54:10,336 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:54:10,337 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:54:10,337 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:54:10,338 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:54:11,166 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:54:20,175 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:54:24,148 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:54:24,148 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:54:25,419 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:54:25,420 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:54:25,421 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:54:25,422 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:54:26,181 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:54:33,383 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:54:36,194 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:54:39,402 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:54:39,402 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:54:40,201 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:54:40,662 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:54:40,663 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:54:40,664 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:54:40,665 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:54:41,202 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:54:44,206 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:54:54,663 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:54:54,664 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:54:55,792 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:54:55,792 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:54:55,793 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:54:55,794 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:54:56,218 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:55:04,226 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:55:04,752 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:55:09,843 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:55:09,843 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:55:11,025 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:55:11,026 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:55:11,027 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:55:11,028 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:55:11,234 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:55:25,106 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:55:25,107 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:55:26,397 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:55:26,398 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:55:26,399 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:55:26,400 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:55:27,249 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:55:31,116 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:55:31,118 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:55:31,118 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:55:31,119 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:55:31,254 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:55:35,844 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:55:36,259 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:55:40,264 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:55:40,307 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:55:40,307 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:55:42,584 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:55:42,585 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:55:42,585 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:55:42,586 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:55:43,268 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:55:52,277 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:55:55,559 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:55:55,560 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:55:56,280 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:55:57,551 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:55:57,552 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:55:57,552 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:55:57,553 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:55:58,282 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:56:04,291 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:56:07,211 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:56:10,859 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:56:10,860 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:56:12,684 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:56:12,685 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:56:12,685 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:56:12,686 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:56:13,304 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:56:26,153 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:56:26,153 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:56:27,806 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:56:27,807 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:56:27,807 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:56:27,808 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:56:28,319 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:56:30,321 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:56:36,328 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:56:38,331 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:56:38,375 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:56:41,365 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:56:41,366 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:56:42,939 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:56:42,940 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:56:42,941 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:56:42,942 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:56:43,336 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:56:50,343 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:56:56,625 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:56:56,625 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:56:58,060 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:56:58,062 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:56:58,062 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:56:58,063 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:56:58,351 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:57:08,361 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:57:09,740 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:57:10,364 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:57:11,823 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:57:11,823 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:57:12,366 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:57:13,088 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:57:13,089 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:57:13,090 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:57:13,091 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:57:13,367 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:57:14,369 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:57:27,016 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:57:27,017 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:57:28,448 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:57:28,449 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:57:28,450 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:57:28,453 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:57:29,384 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:57:30,386 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:57:39,669 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:57:39,670 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:57:39,670 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:57:39,673 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:57:40,397 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:57:40,876 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:57:42,252 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:57:42,253 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:57:44,731 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:57:44,732 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:57:44,732 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:57:44,734 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:57:45,402 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:57:52,409 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:57:57,429 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:57:57,430 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:57:59,974 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:57:59,975 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:57:59,976 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:57:59,977 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:58:00,416 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:58:08,423 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:58:10,426 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:58:12,206 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:58:12,428 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:58:12,689 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:58:12,690 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:58:15,168 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:58:15,169 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:58:15,170 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:58:15,171 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:58:15,431 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:58:27,883 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:58:27,884 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:58:30,379 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:58:30,381 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:58:30,381 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:58:30,382 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:58:30,445 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:58:43,062 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:58:43,062 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:58:43,378 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:58:45,337 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:58:45,339 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:58:45,339 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:58:45,340 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:58:45,461 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:58:58,341 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:58:58,341 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:59:00,479 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:59:00,807 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:59:00,808 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:59:00,809 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:59:00,810 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:59:01,481 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:59:06,486 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:59:13,542 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:59:13,543 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:59:14,736 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:59:15,829 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:59:15,830 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:59:15,830 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:59:15,832 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:59:16,498 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 14:59:16,498 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:59:28,822 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:59:28,822 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:59:30,873 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:59:30,874 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:59:30,874 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:59:30,875 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:59:31,512 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:59:44,076 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:59:44,077 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 14:59:45,857 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 14:59:45,992 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:59:45,993 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:59:45,993 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:59:45,995 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:59:46,528 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:59:48,268 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 14:59:48,270 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 14:59:48,270 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 14:59:48,271 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 14:59:48,530 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 14:59:59,380 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 14:59:59,381 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:00:02,164 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:00:02,165 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:00:02,165 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:00:02,166 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:00:02,543 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:00:02,544 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:00:14,590 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:00:14,591 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:00:17,213 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:00:17,535 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:00:17,536 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:00:17,536 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:00:17,537 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:00:17,559 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:00:18,560 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:00:20,562 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:00:29,828 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:00:29,829 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:00:32,715 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:00:32,716 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:00:32,716 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:00:32,717 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:00:33,576 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:00:38,580 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:00:45,084 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:00:45,085 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:00:47,862 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:00:47,863 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:00:47,864 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:00:47,866 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:00:48,371 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:00:48,590 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:00:50,593 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:00:54,597 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:01:00,311 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:01:00,311 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:01:02,606 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:01:03,028 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:01:03,029 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:01:03,029 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:01:03,030 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:01:03,607 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:01:14,619 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:01:15,595 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:01:15,596 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:01:18,329 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:01:18,330 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:01:18,331 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:01:18,333 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:01:18,623 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:01:19,749 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:01:20,625 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:01:22,628 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:01:24,630 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:01:30,923 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:01:30,924 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:01:33,501 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:01:33,502 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:01:33,502 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:01:33,503 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:01:33,640 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:01:38,645 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:01:44,652 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:01:46,151 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:01:46,151 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:01:48,740 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:01:48,741 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:01:48,741 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:01:48,745 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:01:49,657 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:01:50,875 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:01:57,661 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:01:57,662 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:01:57,662 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:01:57,663 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:01:57,667 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:02:01,375 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:02:01,375 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:02:05,317 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:02:05,318 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:02:05,319 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:02:05,320 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:02:05,675 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:02:12,683 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:02:16,557 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:02:16,557 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:02:20,451 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:02:20,453 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:02:20,453 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:02:20,456 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:02:20,690 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:02:22,217 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:02:22,693 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:02:31,972 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:02:31,972 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:02:35,425 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:02:35,427 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:02:35,427 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:02:35,429 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:02:35,707 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:02:46,719 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:02:47,205 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:02:47,205 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:02:50,616 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:02:50,617 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:02:50,617 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:02:50,620 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:02:50,722 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:02:53,397 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:03:02,482 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:03:02,482 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:03:05,974 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:03:05,976 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:03:05,976 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:03:05,977 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:03:06,736 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:03:17,663 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:03:17,663 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:03:18,747 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:03:20,749 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:03:21,314 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:03:21,315 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:03:21,316 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:03:21,318 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:03:21,750 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:03:24,741 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:03:28,757 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:03:32,973 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:03:32,974 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:03:36,485 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:03:36,486 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:03:36,487 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:03:36,488 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:03:36,766 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:03:44,775 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:03:48,816 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:03:48,816 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:03:51,679 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:03:51,680 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:03:51,680 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:03:51,682 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:03:51,782 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:03:55,870 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:03:56,787 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:04:04,083 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:04:04,083 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:04:06,641 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:04:06,642 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:04:06,643 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:04:06,644 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:04:06,809 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:04:07,852 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:04:07,853 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:04:07,853 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:04:07,854 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:04:08,811 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:04:19,331 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:04:19,331 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:04:22,824 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:04:23,048 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:04:23,049 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:04:23,050 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:04:23,051 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:04:23,824 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:04:24,826 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:04:27,196 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:04:34,672 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:04:34,672 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:04:38,234 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:04:38,235 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:04:38,236 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:04:38,238 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:04:38,839 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:04:40,841 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:04:46,848 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:04:48,850 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:04:49,897 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:04:49,897 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:04:50,852 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:04:53,365 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:04:53,367 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:04:53,367 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:04:53,369 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:04:53,855 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:04:58,365 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:05:05,078 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:05:05,078 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:05:06,868 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:05:08,493 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:05:08,494 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:05:08,495 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:05:08,496 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:05:08,871 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:05:10,873 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:05:20,263 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:05:20,264 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:05:22,886 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:05:23,492 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:05:23,493 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:05:23,494 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:05:23,496 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:05:23,887 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:05:29,740 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:05:35,553 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:05:35,553 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:05:38,628 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:05:38,629 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:05:38,630 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:05:38,631 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:05:38,902 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:05:40,905 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:05:42,908 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:05:50,763 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:05:50,763 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:05:53,726 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:05:53,727 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:05:53,727 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:05:53,730 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:05:53,918 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:06:00,845 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:06:06,035 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:06:06,036 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:06:08,898 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:06:08,899 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:06:08,900 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:06:08,901 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:06:08,930 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:06:10,933 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:06:12,934 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:06:15,236 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:06:15,237 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:06:15,238 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:06:15,239 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:06:15,937 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:06:21,308 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:06:21,308 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:06:25,338 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:06:25,340 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:06:25,341 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:06:25,343 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:06:25,947 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:06:32,203 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:06:34,955 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:06:37,173 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:06:37,173 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:06:40,552 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:06:40,553 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:06:40,554 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:06:40,556 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:06:40,961 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:06:44,965 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:06:52,412 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:06:52,412 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:06:52,971 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:06:54,973 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:06:55,721 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:06:55,722 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:06:55,723 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:06:55,725 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:06:55,974 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:07:03,369 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:07:07,582 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:07:07,582 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:07:10,912 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:07:10,913 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:07:10,914 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:07:10,915 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:07:10,988 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:07:22,798 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:07:22,798 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:07:25,000 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:07:25,948 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:07:25,949 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:07:25,950 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:07:25,953 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:07:26,001 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:07:34,729 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:07:38,105 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:07:38,105 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:07:40,987 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:07:40,989 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:07:40,990 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:07:40,991 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:07:41,015 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:07:41,015 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:07:45,019 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:07:53,026 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:07:53,335 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:07:53,336 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:07:56,097 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:07:56,098 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:07:56,099 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:07:56,102 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:07:57,029 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:08:05,036 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:08:05,866 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:08:08,521 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:08:08,522 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:08:11,029 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:08:11,031 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:08:11,032 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:08:11,033 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:08:11,040 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:08:23,624 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:08:23,626 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:08:23,627 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:08:23,628 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:08:23,803 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:08:23,803 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:08:24,052 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:08:27,359 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:08:27,360 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:08:27,361 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:08:27,364 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:08:28,056 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:08:35,064 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:08:37,222 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:08:39,068 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:08:39,135 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:08:39,135 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:08:42,468 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:08:42,469 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:08:42,470 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:08:42,471 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:08:43,071 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:08:45,073 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:08:54,348 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:08:54,349 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:08:57,376 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:08:57,378 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:08:57,379 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:08:57,381 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:08:58,086 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:09:08,364 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:09:09,539 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:09:09,539 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:09:12,337 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:09:12,339 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:09:12,340 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:09:12,341 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:09:13,099 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:09:24,740 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:09:24,741 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:09:27,582 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:09:27,583 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:09:27,584 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:09:27,587 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:09:28,116 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:09:31,119 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:09:39,740 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:09:40,292 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:09:40,293 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:09:42,633 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:09:42,634 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:09:42,635 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:09:42,637 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:09:43,134 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:09:55,491 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:09:55,491 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:09:57,805 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:09:57,806 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:09:57,807 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:09:57,810 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:09:58,150 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:10:10,675 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:10:10,676 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:10:10,933 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:10:12,976 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:10:12,977 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:10:12,978 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:10:12,979 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:10:13,169 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:10:15,171 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:10:21,177 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:10:25,181 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:10:25,935 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:10:25,936 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:10:28,128 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:10:28,130 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:10:28,131 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:10:28,133 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:10:28,185 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:10:31,977 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:10:31,979 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:10:31,979 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:10:31,981 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:10:32,189 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:10:41,184 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:10:41,184 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:10:42,179 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:10:44,564 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:10:44,565 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:10:44,566 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:10:44,567 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:10:45,202 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:10:51,209 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:10:56,367 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:10:56,368 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:10:59,639 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:10:59,640 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:10:59,641 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:10:59,644 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:11:00,218 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:11:11,584 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:11:11,584 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:11:13,368 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:11:14,746 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:11:14,748 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:11:14,748 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:11:14,749 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:11:15,234 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:11:19,238 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:11:26,853 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:11:26,853 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:11:29,824 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:11:29,825 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:11:29,826 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:11:29,829 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:11:30,248 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:11:33,252 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:11:41,260 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:11:42,073 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:11:42,073 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:11:43,263 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:11:44,743 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:11:44,834 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:11:44,835 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:11:44,835 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:11:44,837 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:11:45,265 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:11:47,267 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:11:49,270 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:11:51,272 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:11:57,306 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:11:57,306 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:11:59,860 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:11:59,862 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:11:59,863 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:11:59,865 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:12:00,281 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:12:07,288 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:12:09,291 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:12:11,293 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:12:12,520 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:12:12,520 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:12:13,295 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:12:14,836 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:12:14,838 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:12:14,839 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:12:14,840 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:12:15,297 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:12:15,851 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:12:27,682 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:12:27,682 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:12:30,003 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:12:30,005 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:12:30,006 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:12:30,008 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:12:30,312 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:12:40,212 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:12:40,213 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:12:40,214 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:12:40,215 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:12:40,323 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:12:42,946 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:12:42,946 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:12:43,327 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:12:46,268 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:12:46,269 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:12:46,270 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:12:46,272 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:12:46,330 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:12:47,215 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:12:58,143 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:12:58,143 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:12:59,345 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:13:01,703 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:13:01,705 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:13:01,706 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:13:01,708 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:13:02,348 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:13:13,398 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:13:13,398 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:13:17,035 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:13:17,037 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:13:17,038 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:13:17,039 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:13:17,362 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:13:18,365 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:13:21,370 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:13:25,375 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:13:28,619 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:13:28,620 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:13:32,140 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:13:32,141 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:13:32,142 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:13:32,145 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:13:32,381 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:13:43,896 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:13:43,896 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:13:45,395 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:13:47,356 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:13:47,358 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:13:47,359 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:13:47,360 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:13:47,397 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:13:49,721 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:13:59,170 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:13:59,171 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:14:02,612 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:14:02,614 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:14:02,615 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:14:02,617 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:14:03,416 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:14:09,421 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:14:14,435 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:14:14,436 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:14:17,760 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:14:17,761 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:14:17,762 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:14:17,763 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:14:18,430 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:14:20,879 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:14:27,438 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:14:29,617 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:14:29,617 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:14:33,079 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:14:33,081 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:14:33,082 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:14:33,085 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:14:33,444 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:14:37,449 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:14:41,453 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:14:44,898 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:14:44,898 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:14:48,068 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:14:48,069 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:14:48,070 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:14:48,072 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:14:48,460 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:14:49,468 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:14:49,469 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:14:49,470 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:14:49,471 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:14:50,462 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:14:52,266 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:14:53,465 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:14:55,467 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:15:00,179 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:15:00,180 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:15:04,485 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:15:04,487 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:15:04,488 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:15:04,490 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:15:05,477 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:15:09,484 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:15:11,487 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:15:15,464 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:15:15,464 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:15:19,699 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:15:19,700 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:15:19,702 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:15:19,704 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:15:20,496 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:15:21,497 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:15:23,373 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:15:30,698 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:15:30,698 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:15:34,865 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:15:34,866 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:15:34,868 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:15:34,869 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:15:35,514 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:15:35,514 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:15:37,516 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:15:45,907 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:15:45,907 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:15:49,528 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:15:50,121 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:15:50,122 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:15:50,123 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:15:50,125 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:15:50,529 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:15:51,530 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:15:53,533 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:15:54,737 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:16:01,166 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:16:01,167 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:16:05,221 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:16:05,222 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:16:05,223 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:16:05,226 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:16:05,545 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:16:16,415 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:16:16,415 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:16:20,284 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:16:20,285 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:16:20,287 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:16:20,288 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:16:20,560 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:16:25,872 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:16:29,569 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:16:31,571 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:16:31,666 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:16:31,667 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:16:35,394 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:16:35,395 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:16:35,396 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:16:35,399 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:16:35,575 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:16:43,583 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:16:47,351 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:16:47,352 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:16:47,588 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:16:50,473 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:16:50,474 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:16:50,476 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:16:50,477 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:16:50,591 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:16:51,592 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:16:57,184 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
+2025-09-12 15:16:58,265 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:16:58,266 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:16:58,267 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:16:58,268 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:16:58,599 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:17:02,663 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:17:02,664 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:17:05,607 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:17:06,600 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:17:06,601 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:17:06,602 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:17:06,604 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:17:06,608 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:17:17,890 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: stop_status
+2025-09-12 15:17:17,891 DEBUG   SenderThread:2879319 [sender.py:send_request():316] send_request: stop_status
+2025-09-12 15:17:19,620 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:17:21,786 DEBUG   HandlerThread:2879319 [handler.py:handle_request():141] handle_request: partial_history
+2025-09-12 15:17:21,788 DEBUG   SenderThread:2879319 [sender.py:send():302] send: history
+2025-09-12 15:17:21,789 DEBUG   SenderThread:2879319 [sender.py:send():302] send: summary
+2025-09-12 15:17:21,790 INFO    SenderThread:2879319 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2025-09-12 15:17:22,623 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/wandb-summary.json
+2025-09-12 15:17:23,624 INFO    Thread-12 :2879319 [dir_watcher.py:_on_file_modified():292] file/dir modified: /bme002.mnt/project/bme-lrossen-20192236/Master_Thesis/DiffSBDD/logs/SE3-cond-fullAtom/wandb/run-20250912_142932-SE3-cond-fullAtom/files/output.log
+2025-09-12 15:17:28,379 DEBUG   SenderThread:2879319 [sender.py:send():302] send: stats
